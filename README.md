@@ -147,9 +147,8 @@ cd game-day-notifications
 
 
 ### **Email Notification**
-![Uploading Screenshot 2025-01-12 at 1.51.07 PM.png…]()
-
+<img width="460" alt="Screenshot 2025-01-12 at 1 51 07 PM" src="https://github.com/user-attachments/assets/9d826896-4752-440f-aea0-a48f17eb9251" />
 
 
 ### **Cloud trail Event**
-![Uploading Screenshot 2025-01-12 at 1.32.47 PM.png…]()
+<img width="1440" alt="Screenshot 2025-01-12 at 1 32 47 PM" src="https://github.com/user-attachments/assets/43e3a09f-eb61-40f7-a0a6-0be261eb4e27" />
