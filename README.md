@@ -144,3 +144,12 @@ cd game-day-notifications
 1. Add NFL score alerts for extended functionality.
 2. Store user preferences (teams, game types) in DynamoDB for personalized alerts.
 3. Implement a web UI
+
+
+### **Email Notification**
+![Uploading Screenshot 2025-01-12 at 1.51.07 PM.png…]()
+
+
+
+### **Cloud trail Event**
+![Uploading Screenshot 2025-01-12 at 1.32.47 PM.png…]()
